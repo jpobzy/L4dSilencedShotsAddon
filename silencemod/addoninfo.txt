@@ -1,0 +1,15 @@
+// The addoninfo.txt file is a metadata file that is required by all Source Engine Add-ons.
+ 
+ "AddonInfo"
+{
+	 addonSteamAppID         500                                                     // 500 is the app ID for Left 4 Dead, 550 for Left 4 Dead 2
+	 addontitle              "Joeys_custom_addons"                            // Add-on title that shows up in Add-ons list. ~20 chars max
+	 addonversion			 0.1  												//Add-on version
+	 addontagline 			 "Customized_Addons" 							// Add-on tagline or wrap-up- a short description. ~100 chars max
+	 addonContent_Campaign   0 	                                                     //This addon provides muliple connected maps with a finale
+     addonURL0               "" //An html home page for the add-on that includes a download link.
+	 addonContent_Skin	1
+	 
+	 // short description that appears in the Add-on list screen...
+     addonDescription        "silenced guns"
+}
